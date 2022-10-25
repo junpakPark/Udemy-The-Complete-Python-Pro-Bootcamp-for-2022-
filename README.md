@@ -1,1 +1,17 @@
-# Udemy-The-Complete-Python-Pro-Bootcamp-for-2022-
+# Udemy-The-Complete-Python-Pro-Bootcamp-for-2022
+
+>웹뿐만 아니라 다양한 분야의 프로그래밍 프로젝트를 경험해보기 위해 들은 강의입니다.<br>
+>여러 프로젝트를 수행하면서 개발의 재미와 유용성에 대해 다시 한번 깨달았습니다.<br>
+>깊은 수준은 아니지만 객체지향이라는 개념에 대해 접할 수 있었습니다.<br>
+<br>
+
+## 좋았던 점
+* 실습과 이론의 균형이 좋았다.
+* 객체 지향이라는 개념에 대해 접할 수 있었다.
+* 나에게 필요한 소프트웨어를 만들기 위해 어떻게 해야하는지 알게되었다..
+
+<br>
+<br>
+
+* 참고자료
+  * [Python 부트캠프 : 100개의 프로젝트로 Python 개발 완전 정복](https://www.udemy.com/course/best-100-days-python/)
